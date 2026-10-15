@@ -26,9 +26,9 @@ Contains 90 products in clinical development. The analysis uses the `Master Data
 
 The analysis requires Python and these libraries:
 
-- `pandas` – reading, organising and analysing the datasets
-- `matplotlib` – creating graphs
-- `openpyxl` – reading Excel files through pandas
+- `pandas` - reading, organising and analysing the datasets
+- `matplotlib` - creating graphs
+- `openpyxl` - reading Excel files through pandas
 
 Install them with:
 
