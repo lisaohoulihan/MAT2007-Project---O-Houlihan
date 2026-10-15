@@ -1,6 +1,6 @@
 # Are We Running Out of Antibiotics?
 
-**MAT2007 – Introduction to Programming**
+**MAT2007 - Introduction to Programming**
 
 ## Project overview
 
